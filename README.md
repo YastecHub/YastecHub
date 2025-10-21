@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-**🔭 Currently working on:** Birthday Buddy – an app that celebrates classmates’ birthdays automatically via email and WhatsApp.  <br>**👯 Looking to collaborate on:** Backend-heavy projects, automation tools, or apps that make everyday tasks easier.  <br>**🤝 Looking for help with:** Mastering microservices & system architectures, and sharpening my React frontend skills.  <br>**🌱 Currently learning:** Advanced .NET 8 patterns, cloud infrastructure (Azure), and modern API best practices.  <br>**💬 Ask me about:** Scalable APIs, database optimization, secure authentication, and clean architecture.  <br>**⚡ Fun fact:** I can think through algorithms even while asleep… though my coffee budget says otherwise.  <br>
+**🔭 Currently working on:** Birthday Buddy – an app that celebrates peoples’ birthdays automatically via email and WhatsApp.  <br>**👯 Looking to collaborate on:** Backend-heavy projects, automation tools, or apps that make everyday tasks easier.  <br>**🤝 Looking for help with:** Mastering microservices & system architectures, and sharpening my React frontend skills.  <br>**🌱 Currently learning:** Advanced .NET 8 patterns, cloud infrastructure (Azure), and modern API best practices.  <br>**💬 Ask me about:** Scalable APIs, database optimization, secure authentication, and clean architecture.  <br>**⚡ Fun fact:** I can think through algorithms even while asleep… though my coffee budget says otherwise.  <br>
 
 
 ## 🌐 Socials:
