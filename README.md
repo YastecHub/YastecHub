@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:062A1F,50:0B3D2E,100:10B981&height=220&section=header&text=Yasir%20Oyebo&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=60&descColor=b8f5d8&animation=twinkling" width="100%" alt="Yasir Oyebo"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:062A1F,50:0B3D2E,100:10B981&height=220&section=header&text=Yasir%20Oladimeji&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=60&descColor=b8f5d8&animation=twinkling" width="100%" alt="Yasir Oladimeji"/>
 
 <a href="https://yasircodes.tech">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer;Frontend%2C+backend%2C+and+everything+in+between;Event+driven+systems+%E2%80%A2+Kafka+%E2%80%A2+Redis;Fintech+%E2%80%A2+E+commerce+%E2%80%A2+AI+%E2%80%A2+Healthtech;If+it's+solvable%2C+it's+shippable." alt="Typing intro"/>
@@ -27,7 +27,7 @@
 ```csharp
 public sealed record Engineer
 {
-    public string   Name     => "Yasir Oyebo Oladimeji";
+    public string   Name     => "Yasir Oladimeji";
     public string   Role     => "Full Stack Software Engineer";
     public string   Base     => "Lagos, Nigeria 🇳🇬  (remote ready, any timezone)";
     public string[] Domains  => ["Fintech", "E commerce", "AI / LLMs", "Healthtech", "SaaS"];
