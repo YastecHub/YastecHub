@@ -3,13 +3,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:062A1F,50:0B3D2E,100:10B981&height=220&section=header&text=Yasir%20Oyebo&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=60&descColor=b8f5d8&animation=twinkling" width="100%" alt="Yasir Oyebo"/>
 
-<a href="https://yastec.vercel.app">
+<a href="https://yasircodes.tech">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer;Frontend%2C+backend%2C+and+everything+in+between;Event+driven+systems+%E2%80%A2+Kafka+%E2%80%A2+Redis;Fintech+%E2%80%A2+E+commerce+%E2%80%A2+AI+%E2%80%A2+Healthtech;If+it's+solvable%2C+it's+shippable." alt="Typing intro"/>
 </a>
 
 <br/>
 
-<a href="https://yastec.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yastec.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=062A1F"/></a>
+<a href="https://yasircodes.tech"><img src="https://img.shields.io/badge/Portfolio-yasircodes.tech-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=062A1F"/></a>
 <a href="https://linkedin.com/in/yasir-oyebo0"><img src="https://img.shields.io/badge/LinkedIn-yasir--oyebo0-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=062A1F"/></a>
 <a href="https://x.com/yasiroyebo"><img src="https://img.shields.io/badge/X-@yasiroyebo-10B981?style=for-the-badge&logo=x&logoColor=white&labelColor=062A1F"/></a>
 <a href="mailto:yasiroyebo@gmail.com"><img src="https://img.shields.io/badge/Email-yasiroyebo@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=062A1F"/></a>
