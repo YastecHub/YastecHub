@@ -1,20 +1,242 @@
-## Hi there 👋
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<div align="center">
 
-# 💫 About Me:
-**🔭 Currently working on:** Birthday Buddy – an app that celebrates peoples’ birthdays automatically via email and WhatsApp.  <br>**👯 Looking to collaborate on:** Backend-heavy projects, automation tools, or apps that make everyday tasks easier.  <br>**🤝 Looking for help with:** Mastering microservices & system architectures, and sharpening my React frontend skills.  <br>**🌱 Currently learning:** Advanced .NET 8 patterns, cloud infrastructure (Azure), and modern API best practices.  <br>**💬 Ask me about:** Scalable APIs, database optimization, secure authentication, and clean architecture.  <br>**⚡ Fun fact:** I can think through algorithms even while asleep… though my coffee budget says otherwise.  <br>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:062A1F,50:0B3D2E,100:10B981&height=220&section=header&text=Yasir%20Oyebo&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=60&descColor=b8f5d8&animation=twinkling" width="100%" alt="Yasir Oyebo"/>
 
+<a href="https://yastec.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer;Frontend%2C+backend%2C+and+everything+in+between;Event+driven+systems+%E2%80%A2+Kafka+%E2%80%A2+Redis;Fintech+%E2%80%A2+E+commerce+%E2%80%A2+AI+%E2%80%A2+Healthtech;If+it's+solvable%2C+it's+shippable." alt="Typing intro"/>
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yasir-oyebo-aa17b6321/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yasiroyebo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasiroyebo@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YastecHub&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YastecHub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YastecHub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://yastec.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yastec.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=062A1F"/></a>
+<a href="https://linkedin.com/in/yasir-oyebo0"><img src="https://img.shields.io/badge/LinkedIn-yasir--oyebo0-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=062A1F"/></a>
+<a href="https://x.com/yasiroyebo"><img src="https://img.shields.io/badge/X-@yasiroyebo-10B981?style=for-the-badge&logo=x&logoColor=white&labelColor=062A1F"/></a>
+<a href="mailto:yasiroyebo@gmail.com"><img src="https://img.shields.io/badge/Email-yasiroyebo@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=062A1F"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=YastecHub&label=Profile%20visits&color=10B981&style=flat-square" alt="profile views"/>
+
+</div>
+
+---
+
+## 👨🏽‍💻 `whoami`
+
+```csharp
+public sealed record Engineer
+{
+    public string   Name     => "Yasir Oyebo Oladimeji";
+    public string   Role     => "Full Stack Software Engineer";
+    public string   Base     => "Lagos, Nigeria 🇳🇬  (remote ready, any timezone)";
+    public string[] Domains  => ["Fintech", "E commerce", "AI / LLMs", "Healthtech", "SaaS"];
+    public string[] Thinks   => ["Clean Architecture", "DDD", "CQRS", "Event driven systems"];
+    public string   Policy   => "If it's solvable, I'll solve it. If it's shippable, I'll ship it.";
+}
+```
+
+I build **production systems that move money, serve customers and talk to AI**: wallet ledgers processing **10,000+ daily transactions**, e commerce platforms with **25+ APIs**, and LLM powered backends that win hackathons.
+
+I work across the whole stack. Backend architecture, frontend, infrastructure, data, integrations, automation. **Hand me a problem with a solution in it, and I'll find that solution and ship it.**
+
+---
+
+## 🧭 How I Work
+
+| Step | What it means |
+| :-- | :-- |
+| **1. Understand** | Profile the system, trace the request, read the query plan, find the *real* problem before touching code |
+| **2. Design** | Pick the right tool for the job: CQRS, caching, events, or just a well placed index |
+| **3. Build** | Clean, tested, containerised code with xUnit, Docker, CI/CD and zero downtime deploys |
+| **4. Observe** | Serilog tracing, metrics and alerts, then iterate until it's fast and stable |
+
+---
+
+## 🧰 Bring Me a Problem
+
+> No task is "not my stack". If it's solvable, here's what I'll do with it:
+
+| You need… | I'll deliver… |
+| :-- | :-- |
+| 💸 Payments, wallets, ledgers | Idempotent, auditable money flows that survive retries, replays and broker restarts |
+| ⚡ A slow API | Measurable speedups. I've cut **p95 latency by 45%** with indexing and query plan work |
+| 🧱 A monolith that's hurting | A clean split into a modular monolith or microservices, with Kafka or RabbitMQ in between |
+| 🤖 AI in your product | Resilient LLM integrations with retries, backoff and circuit breakers |
+| 🔐 Auth that holds up | JWT, OAuth2, RBAC, secure cookies, layered middleware |
+| 🕰️ Legacy code | Safe migrations. I took 5+ client projects from **.NET 6 to .NET 8** with zero downtime |
+| 🖥️ A polished UI | React, Next.js and Tailwind front ends wired cleanly to the APIs behind them |
+| 🔁 Boring manual work | Automation: background services, schedulers, WhatsApp and email bots |
+
+---
+
+## 📈 Impact in Numbers
+
+<div align="center">
+
+| 10,000+ | 45% | ~60% | 40% | 30% | 🥇 + 🥉 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| daily transactions on a Kafka backed ledger | faster p95 API responses | less DB read load with Redis | fewer LLM endpoint errors | fewer production incidents | hackathon podiums |
+
+</div>
+
+---
+
+## 🏗️ Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 WaaS: Wallet as a Service
+`Production` · `Fintech`
+
+Wallet creation, KYC, balances and transaction history across **15+ endpoints**. Ledger extracted into its own microservice, with **idempotent Kafka consumers** that guarantee no double credit or double debit, even under network failure.
+
+`C#` `.NET 8` `Kafka` `EF Core` `SQL Server` `Clean Architecture`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 GrowthGIA: E Commerce Platform
+`Production` · `E commerce`
+
+Modular monolith over **Commerce, Identity and Logistics** with **25+ REST APIs**, ACID transactions and architecture fitness tests. Redis TTL caching cut DB round trips by **~60%** at peak.
+
+`.NET 10` `PostgreSQL` `Redis` `DDD` `Vertical Slice`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [HostelSync AI](https://github.com/YastecHub/hostelsync-ai)
+`🥇 1st Place · UNILAG Hackathon`
+
+Two stage AI allocation engine (Housing Vulnerability Index + spatial optimisation) that processes **3,000+ applications in 0.34s**, a **16× lift** in bed assignments for the lowest income students.
+
+`Python` `AI` `Optimisation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Sentra: AI Health & Accessibility
+`🥉 3rd Place · TOS Hub Hackathon`
+
+LLM powered healthcare backend unifying symptom analysis, voice to diagnosis, OCR and obstacle detection behind **10+ documented endpoints**.
+
+`TypeScript` `NestJS` `LLMs` `Swagger`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ WhitteIntelCoop
+`Production` · `Whitteintel`
+
+Versioned (v1/v2) API with **CQRS + MediatR** splitting reads from writes, fine grained **RBAC**, Unit of Work, xUnit coverage, Docker Compose and Serilog tracing.
+
+`ASP.NET Core` `CQRS` `MediatR` `JWT` `xUnit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Telex AI Agent](https://github.com/telexintegrations/SocialMediaAgent)
+`HNG Finalist`
+
+GroqAI LLM integration for Telex with retry, exponential backoff and circuit breakers, cutting the error rate by **40%** under high concurrency.
+
+`C#` `.NET` `GroqAI` `Resilience patterns`
+
+</td>
+</tr>
+</table>
+
+<sub>More builds: [MediVoice](https://github.com/YastecHub/medi-voice) (healthcare language bridge) · [Paystack × ASP.NET Core](https://github.com/YastecHub/PayStackImplementationTesting) (end to end payment integration)</sub>
+
+---
+
+## 🧬 Career Log
+
+```text
+$ git log --oneline --graph yasir/career
+
+* 2026  (HEAD -> main)  Software Engineer        @ Whitteintel Limited         ·  CQRS, RBAC, xUnit, Docker, Serilog
+* 2025                  Full Stack Engineer      @ Codefactory Innovative Hub  ·  WaaS, Kafka ledger, GrowthGIA, 45% faster p95
+* 2025                  .NET Backend Developer   @ Teknikforce (Delhi, IN)     ·  .NET 6 to 8 across 5+ client projects
+* 2024                  Backend Intern           @ HNG Tech                    ·  GroqAI × Telex, Finalist
+* ----  (root)          Doctor of Pharmacy       @ University of Lagos         ·  where the problem solving started
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Runtimes**<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,py,nodejs&theme=dark" />
+
+**Backend Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,express,fastapi&theme=dark" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+
+**Messaging · Caching · Data**<br/>
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,postgres,mongodb,sqlite,supabase,firebase&theme=dark" />
+
+**Cloud · DevOps · Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=docker,azure,aws,gcp,githubactions,nginx,vercel,git,postman,figma&theme=dark" />
+
+**Now Learning**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,azure&theme=dark" />
+
+<br/>
+
+`SQL Server` `EF Core` `LINQ` `MediatR` `Serilog` `xUnit` `Swagger/OpenAPI` `JWT` `OAuth2` `RBAC` `Twilio` `GroqAI` `YarnGPT`
+
+**Patterns I reach for:** Clean Architecture · DDD · CQRS · Vertical Slice · Repository + Unit of Work · SOLID · API Versioning · Idempotency · Circuit Breakers
+
+</div>
+
+---
+
+## 🔭 Right Now
+
+- 🧴 **Building:** engineering at a health tech startup on a mission to put your skin first, making expert skincare smarter, more personal and easier to reach. More to share soon.
+- 📚 **Learning:** Java, system design, Azure, and the deeper corners of the .NET ecosystem
+- ☕ **Focus:** my frontend game is sharpened, so the spotlight is now on Java and the JVM
+- 🤝 **Open to:** full stack work. Frontend, backend, or the whole thing end to end
+
+> ⚡ **Fun fact:** I read query plans for fun. On purpose. Voluntarily.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YastecHub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&ring_color=10B981" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YastecHub&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=YastecHub&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&dates=8B949E&stroke=1F2937&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YastecHub&bg_color=0D1117&color=C9D1D9&line=10B981&point=FFFFFF&area=true&area_color=10B981&hide_border=true&custom_title=Contribution%20pulse" width="100%" alt="Contribution graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Got something that needs building?
+
+**Frontend, backend or both. Send it over and let's ship it.**
+
+<a href="mailto:yasiroyebo@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-yasiroyebo@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=062A1F"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:10B981,50:0B3D2E,100:062A1F&height=120&section=footer" width="100%"/>
+
+</div>
